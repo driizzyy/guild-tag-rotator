@@ -1,0 +1,11 @@
+{
+  "token": "USER_TOKEN_HERE",
+  "rotation_interval": 30,
+  "guild_tags": [
+  {"id": "SERVER_ID", "name": "TAG1"},
+  {"id": "SERVER_ID", "name": "TAG2"},
+  {"id": "SERVER_ID", "name": "TAG3"},
+  {"id": "SERVER_ID", "name": "TAG4"},
+  {"id": "SERVER_ID", "name": "TAG5"}
+  ]
+}
