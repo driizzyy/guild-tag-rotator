@@ -10,3 +10,5 @@ ENJOY!!
 Discords
 https://discord.gg/driizzyyboosts
 https://discord.gg/fullcontrolscripts
+
+Temporary Link: https://discord.gg/uJp8R66SUS
